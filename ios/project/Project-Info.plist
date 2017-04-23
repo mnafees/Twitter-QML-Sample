@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Fabric</key>
+    <dict>
+        <key>APIKey</key>
+        <string>af9613d637f6deadea5f45f56acf0248a172e083</string>
+        <key>Kits</key>
+        <array>
+            <dict>
+                <key>KitInfo</key>
+                <dict>
+                    <key>consumerKey</key>
+                    <string>XbYthtCJPTFWdgsGcdunbO0bt</string>
+                    <key>consumerSecret</key>
+                    <string>3ocudqJ4NqZYbwxtV6A9NwM6YKHU7UwSBx8umKSFrfKjMNyDHN</string>
+            </dict>
+            <key>KitName</key>
+            <string>Twitter</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CFBundleDisplayName</key>
+    <string>Twitter-QML-Sample</string>
+    <key>CFBundleExecutable</key>
+    <string>${EXECUTABLE_NAME}</string>
+    <key>CFBundleIdentifier</key>
+    <string>me.mnafees.TwitterQMLSample</string>
+    <key>CFBundleName</key>
+    <string>${PRODUCT_NAME}</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>twitterkit-XbYthtCJPTFWdgsGcdunbO0bt</string>
+            </array>
+        </dict>
+    </array>
+</dict>
+</plist>
